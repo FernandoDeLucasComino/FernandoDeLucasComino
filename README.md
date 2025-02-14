@@ -1,4 +1,12 @@
-## Hi there, im Fernando De Lucas Comino 👋
+<div align='center'>
+<h1 align='center'>Hi there, im Fernando De Lucas Comino 👋</h1>
+</div>
+
+## About me
+- 💻 Software Developer Junior
+- 💡 Always ready to improve and take on new challenges.
+- 📚 Constantly learning about AI, Big Data, and distributed systems.
+- 🔧 Experience year with Python, Java, C#, JavaScript, SQL and NoSQL databases, and frameworks like Django and Node.js.
 
 <!--
 **FernandoDeLucasComino/FernandoDeLucasComino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
